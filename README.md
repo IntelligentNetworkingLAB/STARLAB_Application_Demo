@@ -4,7 +4,9 @@
 
 경희대학교 홍충선 교수님 연구실에서 SW스타랩 데모 시연을 위한 웹 어플리케이션을 구현한 레포지토리입니다.
 
-![소개](/video.mov)
+<div align="center">
+  <video src="video.mov" width="400" />
+</div>
 
 ## 웹 어플리케이션 주요 기능 및 내용
 
